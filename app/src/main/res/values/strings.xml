@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Film Apps</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscription">Subscription</string>
+    <string name="library">Library</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+
+    <string name="malficent">Malficent</string>
+    <string name="narnia">The Chronicles of Narnia</string>
+    <string name="alladin">Alladin</string>
+    <string name="beauty">Beauty and The Beast</string>
+    <string name="lionking">Lion King</string>
+    <string name="cinderella">Cinderella</string>
+    <string name="junglekruise">Jungle Kruise</string>
+    <string name="togo">Togo</string>
+    <string name="hamilton">Hamilton</string>
+    <string name="cruella">Cruella</string>
+
+
+    <string name="avatar">Avatar</string>
+    <string name="titanic">Titanic</string>
+    <string name="starwars">Star Wars</string>
+    <string name="spiderman">Spider Man</string>
+    <string name="jurassic">Jurassic World</string>
+    <string name="avengers">Avengers</string>
+    <string name="fastfurious">Fast and Furious</string>
+    <string name="topgun">Top Gun</string>
+    <string name="barbie">Barbie</string>
+
+    <string name="harrypotter">Harry Potter</string>
+    <string name="conjuring">Conjuring</string>
+    <string name="insideout">Inside Out</string>
+    <string name="agaklaen">Agak Laen</string>
+    <string name="gangster">Shes Dating The Gangster</string>
+    <string name="johnwick">John Wick</string>
+    <string name="encanto">Encanto</string>
+
+    <string name="filmbarat">Film Barat</string>
+    <string name="filmindo">Film Indonesia</string>
+    <string name="filmchina">Film China</string>
+    <string name="filmthailand">Film Thailand</string>
+    <string name="filmkorea">Film Korea</string>
+    <string name="filmjepang">Film Jepang</string>
+</resources>
